@@ -22,11 +22,11 @@ This code uses a set of random images in one folder and a set of texture images 
 Basically, the code extracts various patterns/shapes from the image folder and uses them to create soft maps/masks. It then chooses one random image and a few random textures and maps the textures into the image using the patterns extracted earlier. The result is random images with various textures scattered on it and the segmentation map. This can be used to train the net for material state segmentation.
 See: [Learning Zero-Shot Material States Segmentation, by
 Implanting Natural Image Patterns in Synthetic Data](https://arxiv.org/pdf/2403.03309) for more details.
-
+![Data Generation Scheme](/Scheme_Small.jpg)
 # Resources
 The sample folder contains a few random images and textures that should allow the code to run as is.
 
 For a large set of free textures see the vastexture dataset at: [1](https://sites.google.com/view/infinitexture/home),[2](https://zenodo.org/records/12629301]).
 
 For a large set of free images  [Segment anything dataset](https://segment-anything.com/dataset/index.html) and [open images dataset](https://storage.googleapis.com/openimages/web/index.html).
-![Data Generation Scheme](/Scheme_Small.jpg)
+
