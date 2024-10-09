@@ -23,6 +23,7 @@ Basically, the code extracts various patterns/shapes from the image folder and u
 See: [Learning Zero-Shot Material States Segmentation, by
 Implanting Natural Image Patterns in Synthetic Data](https://arxiv.org/pdf/2403.03309) for more details.
 
+# Resources
 The sample folder contains a few random images and textures that should allow the code to run as is.
 
 For a large set of free textures see the vastexture dataset at: [1](https://sites.google.com/view/infinitexture/home),[2](https://zenodo.org/records/12629301]).
