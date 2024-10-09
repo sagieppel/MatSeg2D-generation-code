@@ -25,7 +25,7 @@ Implanting Natural Image Patterns in Synthetic Data](https://arxiv.org/pdf/2403.
 
 The sample folder contains a few random images and textures that should allow the code to run as is.
 
-For a large set of free textures see the vastexture dataset at: (1)[https://zenodo.org/records/12629301],(2)[https://zenodo.org/records/12629301].
+For a large set of free textures see the vastexture dataset at: [1](https://sites.google.com/view/infinitexture/home),[2](https://zenodo.org/records/12629301]).
 
-For a large set of free images  (Segment anything dataset)[https://segment-anything.com/dataset/index.html] and (open images dataset)[https://storage.googleapis.com/openimages/web/index.html].
+For a large set of free images  [Segment anything dataset](https://segment-anything.com/dataset/index.html) and [open images dataset](https://storage.googleapis.com/openimages/web/index.html).
 ![Data Generation Scheme](/Scheme_Small.jpg)
